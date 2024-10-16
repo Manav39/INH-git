@@ -222,8 +222,6 @@ Please add your name and registration number below:
 - Name: [Your Name]
 - Registration Number: [Your Registration Number]
 
-Congratulations on completing this comprehensive Git and Pull Request tutorial! Remember, practice is key to mastering Git. Don't hesitate to experiment in a test repository to gain more confidence with these commands.
-
-If you have any questions or encounter any issues, please don't hesitate to ask for help. Happy coding!
-"# INH-git" 
+Congratulations on completing this comprehensive Git and Pull Request tutorial! Remember, practice is key to mastering Git. Don't hesitate to experiment in a test repository to gain more confidence with 
 Hello...
+
