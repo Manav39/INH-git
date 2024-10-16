@@ -1,1 +1,4 @@
 mic check 1 2 3...hellloo
+
+git pull
+git merge origin/chaitra
